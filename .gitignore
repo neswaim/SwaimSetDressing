@@ -2,8 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-PUTNAMEHERE/[Ll]ibrary/
-PUTNAMEHERE/[Tt]emp/
+SetDress/[Ll]ibrary/
+SetDress/[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
